@@ -1,0 +1,26 @@
+CORE JAVA TOPIC WISE INTERVIEW QUESTIONS
+-----------------------------------------
+
+TOPIC-1 : LANGUAGE FUNDAMENTALS
+1. How String differs from StringBuffer & StringBuilder?
+2. What is Immutability? What all classes in java are immutables?
+3. How will you create your own immutable class?
+4. How will you decide between StringBuffer & StringBuilder, which one should be used and when.
+5. What is the significance of String constant pool?
+6. Can you tell some method names available in java.lang.Object?
+7. Can you tell the exception class heirarchy?
+8. What are checked and unchecked exceptions?
+9. How "throw" differs from "throws"
+10. What is try with resources clause in java exception handling?
+
+
+TOPIC-2 : GENERICS
+
+TOPIC-3 : COLLECTION CLASSES
+
+TOPIC-4 : CONCURRENCY
+
+TOPIC-5 : GARBAGE COLLECTIONS
+
+
+
